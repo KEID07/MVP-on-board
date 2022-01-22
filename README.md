@@ -146,6 +146,8 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 因为“Extended Azure Credit Benefit”权益只能绑定到非CN账号，但是在MVP Support发放权益的时候不会检查这一点，这就造成激活权益的时候Azure会弹出提示“账户所在的国家/地区不提供此产品/服务”。这种情况下，可以在CN账号上提交“支持请求(Ticket)”，请求工作人员把CN账户上的权益转移到非CN账户上。
 
+[备注]在Azure Portal -> Help+Support处点击"Create a support ticket"提单，工作人员会主动联系帮忙转移账号。
+
 #### 为其他的账号授权
 
 如果你使用的是新账号申领的额度。那么你可能会面临现在有两个账号，有时需要进行切换的窘境。
